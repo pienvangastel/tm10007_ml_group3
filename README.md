@@ -2,7 +2,7 @@
 
 *Authors: Pien van Gastel (5389879), Koen Kwakkenbos (4858956), Hilde van der Pol (4663209), Fenna van der Zijden (4484665)*
 
-This repository contains the code and ata accompanying our TM10007 report
+This repository contains the code and data accompanying our TM10007 report
 
 > Diagnosis of abnormalities in an 12-lead ECG.
 
